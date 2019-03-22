@@ -1,1 +1,1 @@
-# 3sem-camera-pi
+# Semester3Python
